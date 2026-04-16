@@ -78,3 +78,10 @@ Created as a beginner-level HTML project.
 ## 📜 License
 
 Free to use for educational purposes.
+
+---
+
+## Output 
+
+<img width="1908" height="910" alt="Screenshot 2026-04-16 152650" src="https://github.com/user-attachments/assets/4167bb47-6480-4c42-abf2-ac314f315e4c" />
+
